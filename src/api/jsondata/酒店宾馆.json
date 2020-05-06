@@ -1,0 +1,381 @@
+{
+  "type": "FeatureCollection",
+  "name": "酒店宾馆",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38123295,
+          46.67196898,
+          1241.1544189453125,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "爱家快捷酒店",
+        "TE_TEXT": "爱家快捷酒店",
+        "TE_FNAME": "酒店.png",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.36437904598387,
+          46.67874054321861,
+          1267.1724853515625,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "海悦酒店",
+        "TE_TEXT": "海悦酒店",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 5.1801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.36853757079203,
+          46.678095030172095,
+          1258.9575641436527,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "青林酒店",
+        "TE_TEXT": "青林酒店",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 3.4427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3753052556998,
+          46.67504836259572,
+          1247.6957403203126,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "博瑞上午宾馆",
+        "TE_TEXT": "博瑞商务宾馆",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 2.7607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37483486170031,
+          46.675322910533055,
+          1250.8716784446785,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "福鑫大酒店",
+        "TE_TEXT": "福鑫大酒店",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 3.7567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38048724329475,
+          46.674125592391206,
+          1261.384765625,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "旅游宾馆",
+        "TE_TEXT": "旅游宾馆",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 3.7008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38761139276119,
+          46.67365375622381,
+          1257.1878662109375,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "青龙湖大酒店",
+        "TE_TEXT": "青龙湖大酒店",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 5.1946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37954530741926,
+          46.672338251663206,
+          1243.2448599574627,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "新丝达宾馆",
+        "TE_TEXT": "新丝达宾馆",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 2.5821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37642174192298,
+          46.67022015240844,
+          1247.9747817212271,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "海川商务酒店",
+        "TE_TEXT": "海川商务酒店",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 3.364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37776021302813,
+          46.669293209123865,
+          1247.5624680529202,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "盛祥宾馆",
+        "TE_TEXT": "盛祥宾馆",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 3.1685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37737733414838,
+          46.66832879798855,
+          1247.790718042812,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "锦河酒店",
+        "TE_TEXT": "锦河酒店",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 3.119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37758185075248,
+          46.66828210530942,
+          1247.2912534260163,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "安心宾馆",
+        "TE_TEXT": "安心宾馆",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 3.5212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37780661773982,
+          46.667233722040095,
+          1234.3310209834146,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "凯达宾馆",
+        "TE_TEXT": "凯达宾馆",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 2.43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37562261371453,
+          46.67383228099889,
+          1246.8543778772987,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "聚宾楼酒店",
+        "TE_TEXT": "聚宾楼酒店",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 3.0103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37532172399519,
+          46.67389272745039,
+          1243.5603632583895,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "鸿齐宾馆",
+        "TE_TEXT": "鸿齐宾馆",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 2.7588
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "name": "加油气站",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.36774553229779,
+          46.67775551950291,
+          1246.5539845168805,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "团结西路加油站",
+        "TE_TEXT": "团结西路加油站",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 4.3146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38541879879092,
+          46.679235854328695,
+          1257.598534759957,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "广汇加气站",
+        "TE_TEXT": "广汇加气站",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 4.4514
+      }
+    }
+  ]
+}

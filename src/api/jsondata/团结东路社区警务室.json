@@ -1,0 +1,381 @@
+{
+  "type": "FeatureCollection",
+  "name": "团结东路社区警务室",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38602329,
+          46.67129193,
+          1236.43212890625,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "滨河小区",
+        "TE_TEXT": "滨河小区",
+        "TE_FNAME": "小区.png",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37856527,
+          46.66866101,
+          1239.38330078125,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "田园小区",
+        "TE_TEXT": "田园小区",
+        "TE_FNAME": "小区.png",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37998462,
+          46.670786,
+          1240.6236572265625,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "银河小区",
+        "TE_TEXT": "银河小区",
+        "TE_FNAME": "小区.png",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38203976,
+          46.67201403,
+          1240.617919921875,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "花苑小区",
+        "TE_TEXT": "花苑小区",
+        "TE_FNAME": "小区.png",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38046422421894,
+          46.67201454202565,
+          1242.7329523755855,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "银丰小区",
+        "TE_TEXT": "银丰小区",
+        "TE_FNAME": "小区.png",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38158223,
+          46.66997609,
+          1238.404541015625,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "银杉小区",
+        "TE_TEXT": "银杉小区",
+        "TE_FNAME": "小区.png",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38134162,
+          46.66890882,
+          1237.7015380859375,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "雪松小区",
+        "TE_TEXT": "雪松小区",
+        "TE_FNAME": "小区.png",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38196435,
+          46.66781382,
+          1239.8246848828126,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "家和园小区",
+        "TE_TEXT": "家和园小区",
+        "TE_FNAME": "小区.png",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38079450040955,
+          46.67167431600859,
+          1242.480144758398,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "老政府统战楼",
+        "TE_TEXT": "老政府统战楼",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 3.4072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3796889958875,
+          46.672605237609126,
+          1242.638103742773,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "老信用社家属楼",
+        "TE_TEXT": "老信用社家属楼",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 4.542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37945170053467,
+          46.67199342619148,
+          1242.5267756796875,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "武装部家属楼",
+        "TE_TEXT": "武装部家属楼",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 4.3745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38238194676347,
+          46.6711268874633,
+          1242.3882258130855,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "信用社家属楼",
+        "TE_TEXT": "信用社家属楼",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 4.7255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38293439492303,
+          46.671029518406165,
+          1241.345623274023,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "廉租房",
+        "TE_TEXT": "廉租房",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 3.7312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3843280242121,
+          46.67077022823214,
+          1239.501629133398,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "教育局家属楼",
+        "TE_TEXT": "教育局家属楼",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 4.4908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38483359274747,
+          46.67120187165967,
+          1242.8056640625,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "新天地家属楼",
+        "TE_TEXT": "新天地家属楼",
+        "TE_FNAME": "",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 4.5681
+      }
+    }
+  ]
+}

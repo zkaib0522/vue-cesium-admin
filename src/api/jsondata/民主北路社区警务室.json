@@ -1,0 +1,246 @@
+{
+  "type": "FeatureCollection",
+  "name": "民主北路社区警务室",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37392597158374,
+          46.67545644038755,
+          1255.4173583984375,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "桦林小区",
+        "TE_TEXT": "桦林小区",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 7.7667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37523462706586,
+          46.678875535597896,
+          1258.7327880859375,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "康乐小区",
+        "TE_TEXT": "康乐小区",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 8.756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37502523795544,
+          46.68015999189301,
+          1263.2733154296875,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "祥和小区",
+        "TE_TEXT": "祥和小区",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 7.23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3793758742845,
+          46.674914802132875,
+          1253.0765380859375,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "天福小区",
+        "TE_TEXT": "天福小区",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 7.0527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37734688639716,
+          46.67452654535102,
+          1252.86962890625,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "怡家小区",
+        "TE_TEXT": "怡家小区",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 8.6325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.36922397453947,
+          46.67889439579547,
+          1261.3172607421875,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "棚户区一期",
+        "TE_TEXT": "棚户区一期",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 7.3113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.36993804356143,
+          46.67972949081357,
+          1263.6092529296875,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "棚户区二期",
+        "TE_TEXT": "棚户区二期",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 7.2877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.36875594381013,
+          46.677857593409676,
+          1257.977783203125,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "团结西路230号",
+        "TE_TEXT": "团结西路230号",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 5.5926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37082255570624,
+          46.67817112636846,
+          1258.466064453125,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "和谐小区",
+        "TE_TEXT": "和谐小区",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 6.3777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37127030109156,
+          46.67886459871599,
+          1262.0107421875,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "干部驻转房",
+        "TE_TEXT": "干部驻转房",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 6.3777
+      }
+    }
+  ]
+}

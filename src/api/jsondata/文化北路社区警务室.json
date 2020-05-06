@@ -1,0 +1,246 @@
+{
+  "type": "FeatureCollection",
+  "name": "文化北路社区警务室",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38137547286509,
+          46.67522498400251,
+          1231.8701171875,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "幸福花园",
+        "TE_TEXT": "幸福花园",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 7.4168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38098224066442,
+          46.67651689566121,
+          1252.987548828125,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "民政局家属楼",
+        "TE_TEXT": "民政局家属楼",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 5.0877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38298430172037,
+          46.67861980389098,
+          1259.58544921875,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "宏苑小区",
+        "TE_TEXT": "宏苑小区",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 5.4297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38437879045458,
+          46.673790944102606,
+          1248.67626953125,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "友好小区",
+        "TE_TEXT": "友好小区",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 9.7301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.39092764373972,
+          46.67702434501671,
+          1255.2509765625,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "青龙湖小区",
+        "TE_TEXT": "青龙湖小区",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 11.7419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.39371206290322,
+          46.676350968958296,
+          1256.419677734375,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "龙湖山庄",
+        "TE_TEXT": "龙湖山庄",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 7.4629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38831398256762,
+          46.67499263249826,
+          1248.837158203125,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "新湖明珠小区",
+        "TE_TEXT": "新湖明珠小区",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 6.3908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3871676165956,
+          46.672871324389796,
+          1247.3665771484375,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "公园小区",
+        "TE_TEXT": "公园小区",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 6.6144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38390184071646,
+          46.67702254472946,
+          1254.3466796875,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "水利局家属楼",
+        "TE_TEXT": "水利局家属楼",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 6.4944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38417819646052,
+          46.678167532804366,
+          1260.00927734375,
+          -3.4028234663852886e+38
+        ]
+      },
+      "properties": {
+        "TE_TYPE": "LABEL",
+        "TE_DESC": "环保局家属楼",
+        "TE_TEXT": "环保局家属楼",
+        "TE_YAW": 0,
+        "TE_PITCH": 0,
+        "TE_ROLL": 0,
+        "TE_WIDTH": 0,
+        "TE_LENGTH": 0,
+        "TE_HEIGHT": 0,
+        "TE_SCALE": 5.2535
+      }
+    }
+  ]
+}
